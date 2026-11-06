@@ -1,0 +1,8 @@
+{
+  "name": "AI Career Buddy",
+  "description": "Your Personal Career Assistant for college students. Discover your skills, prepare for interviews, generate resumes, create cover letters, and build learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
